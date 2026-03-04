@@ -46,3 +46,8 @@ a:hover {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
+.form-footer textarea:focus,
+.form-footer input:focus {
+    background-color: #eeb;
+}
