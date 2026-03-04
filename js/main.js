@@ -1,1 +1,3 @@
-console.log('Hola mundo!');
+document.querySelector('h1').addEventListener('click', () => {
+    alert('Hola!');
+});
