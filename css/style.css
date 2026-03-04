@@ -51,3 +51,16 @@ a:hover {
 .form-footer input:focus {
     background-color: #eeb;
 }
+
+.form-footer input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 0.7em 1.5em;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.form-footer input[type="submit"]:hover {
+    background-color: #357;
+}
