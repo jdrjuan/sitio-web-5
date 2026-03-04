@@ -26,3 +26,11 @@ p {
     display: block;
     margin: 0.3em 0;
 }
+
+a {
+    color: #0457af;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
