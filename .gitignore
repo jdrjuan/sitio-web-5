@@ -1,0 +1,10 @@
+# Directorios
+node_modules/
+dist/
+log/
+
+
+# Archivos
+.env
+*.log
+config.json
