@@ -54,3 +54,10 @@ p {
 .form-footer input[type="submit"]:hover {
     background-color: #357;
 }
+
+body > footer {
+    padding: 1em;
+    text-align: center;
+    background-color: #222;
+    color: #f2f2f2;
+}
