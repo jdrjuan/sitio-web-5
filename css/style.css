@@ -64,3 +64,10 @@ a:hover {
 .form-footer input[type="submit"]:hover {
     background-color: #357;
 }
+
+article.servicio {
+    background-color: #fdfdfd;
+    border: 3px solid #eee;
+    padding: 1em;
+    margin: 1em;
+}
